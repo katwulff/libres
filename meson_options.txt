@@ -1,0 +1,2 @@
+option('lv2', type: 'feature', value: 'enabled')
+option('vst3', type: 'feature', value: 'enabled')
